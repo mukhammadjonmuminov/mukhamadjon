@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on apps and dashboards for the AEC (architecture, engineering, and Construction) industry. 
 - 🌱 I’m currently learning Python, Docker, CI/CD, SQL 
 - 💼 I’m looking to collaborate on Python and Python in technologies projects
-- 🤔 I’m looking for help with digital architectural, engineering and construction projects
 
 ### Find Me:
 - Contributing to open source on <a href="https://github.com/mukhammadjonmuminov"> Github</a> 🏓
