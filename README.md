@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Online Academy Websie](https://github.com/mukhammadjonmuminov/online-academy-project)
+- 🔭 I’m currently working on [Online Academy Website](https://github.com/mukhammadjonmuminov/online-academy-project)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mukhammadjonmuminov?tab=repositories](https://github.com/mukhammadjonmuminov?tab=repositories)
 
