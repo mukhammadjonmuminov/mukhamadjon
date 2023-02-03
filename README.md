@@ -6,21 +6,16 @@
 
 - 🔭 I’m currently working on apps and dashboards for the AEC (architecture, engineering, and Construction) industry. 
 - 🌱 I’m currently learning Python, Docker, CI/CD, SQL 
-- 👯 I’m looking to collaborate on Python projects
+- 💼 I’m looking to collaborate on Python and Python in technologies projects
 - 🤔 I’m looking for help with digital architectural, engineering and construction projects
-- 💬 Ask me about BIM (Building Information Modelling) and Digital Twins
-
 
 ### Find Me:
 - Contributing to open source on <a href="https://github.com/mukhammadjonmuminov"> Github</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/mukhammadjon-muminov/">LinkedIn</a> 💼
 
 
-
-
 ### My Skills: 🚀
 `HTML` `CSS` `Python` `SAAS` `Github` `SQL` `Docker` `C++` `Github Apps` `CI` `CD` `PostgreSQL` `PyQt5` `DRF`
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
