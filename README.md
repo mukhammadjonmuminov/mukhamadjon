@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mukhammadjon-muminov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukhammadjon-muminov" height="30" width="40" /></a>
 <a href="https://instagram.com/muminov_0047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muminov_0047" height="30" width="40" /></a>
-<a href="https://t.me/pip_sudo" target="blank"><img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Telegram_Logo.webp/200px-Telegram_Logo.webp.png)" alt="muminov_0047" height="30" width="40" /></a>
+<a href="https://t.me/pip_sudo" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Telegram_Logo.webp/200px-Telegram_Logo.webp.png" alt="muminov_0047" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/mmmdg4530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mmmdg4530" height="30" width="40" /></a>
 </p> -->
 
