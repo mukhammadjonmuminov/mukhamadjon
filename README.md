@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mukhammadjon</h1>
 <h3 align="center">Software Engineer</h3>
-<img align="right" alt="Coding" width"400" src"https://robotdreams.cc/ckeditor/blog/275-6-angloyazychnyh-podkastov-dlya-programmistov/giphy.gif">
-![Coding](https://user-images.githubusercontent.com/93781207/216560742-a05e29c7-7554-49cf-aeec-fb43313b935d.png)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukhammadjonmuminov&label=Profile%20views&color=0e75b6&style=flat" alt="mukhammadjonmuminov" /> </p>
 
