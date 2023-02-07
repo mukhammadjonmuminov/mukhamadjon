@@ -14,7 +14,7 @@
 
 
 ### My Skills: 🚀
-`HTML` `CSS` `Python` `SAAS` `git` `Github` `SQL` `Docker` `C++` `Github Apps` `CI / CD` `PostgreSQL` `PyQt5` `DRF` 'Problem Solving`
+`HTML` `CSS` `Python` `SAAS` `git` `Github` `SQL` `Docker` `C++` `Github Apps` `CI / CD` `PostgreSQL` `PyQt5` `DRF` `Problem Solving`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
