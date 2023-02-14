@@ -10,7 +10,6 @@
 
 ### About Me:
 
-- 🔭 I’m currently working on apps and dashboards for the AEC (architecture, engineering, and Construction) industry. 
 - 🌱 I’m currently learning Python, Docker, CI/CD, SQL 
 - 💼 I’m looking to collaborate on Python and Python in technologies projects
 
