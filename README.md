@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mukhammadjon</h1>
-<h3 align="center">A passionate backend developer</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukhammadjonmuminov" alt="mukhammadjonmuminov" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukhammadjonmuminov" alt="mukhammadjonmuminov" /></a> </p> -->
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hdf3hkvf3gatdcy7aw0666lebu8umzm7fg6jljgo&rid=giphy.gif&ct=g">
 
