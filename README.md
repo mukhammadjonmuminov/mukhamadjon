@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mukhammadjon</h1>
-
+<a href="https://www.buymeacoffee.com/mukhammadjon" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukhammadjonmuminov" alt="mukhammadjonmuminov" /></a> </p>
 
