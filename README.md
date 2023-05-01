@@ -10,8 +10,7 @@
 
 ### About Me:
 
-- 🌱 I’m currently learning Python, Docker, CI/CD, SQL 
-- 💼 I’m looking to collaborate on Python and Python in technologies projects
+- 💼 I am Software Engineer with experience in learning new technologies, developing software, and building scalable and efficient applications. I am passionate about coding and constantly strive to improve my skills by keeping up-to-date with new technologies and best practices.
 
 ### Find Me:
 - Contributing to open source on <a href="https://github.com/mukhammadjonmuminov"> Github</a> 🏓
